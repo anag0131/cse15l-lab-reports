@@ -4,6 +4,7 @@ Welcome to Lab Report 1! In this lab, we will learn how to connect to a remote s
 ---
 
 
+
 **Step 1 : Installing VS Code**
 
 -Install VS Code by downloading it from the website (clicking the download button)
