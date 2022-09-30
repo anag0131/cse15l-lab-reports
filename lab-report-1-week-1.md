@@ -2,6 +2,8 @@
 ---
 Welcome to Lab Report 1! In this lab, we will learn how to connect to a remote server as well as use ssh and scp keys. I have listed steps below as well as images of my examples
 ---
+
+
 **Step 1 : Installing VS Code**
 
 -Install VS Code by downloading it from the website (clicking the download button)
