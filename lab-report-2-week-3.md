@@ -63,7 +63,7 @@ This is an example of what the webpage looks like after adding /increment to the
 
 
 
-![Image]("https://user-images.githubusercontent.com/114611146/195948088-443b7bb4-9731-43b9-bf2b-ceae2e0a3b3b.png")
+![Image]("https://user-images.githubusercontent.com/114611146/195946354-8b80603b-3dfb-4447-ac12-27eaa76a8b68.png")
 
 This is what the webpage looked like after adding the string blue, it is added to the list by adding /add/?s=blue to the path
 
